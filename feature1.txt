@@ -1,6 +1,10 @@
 feature-123456
 
 
+<<<<<<< HEAD
 84465131351548
+=======
+eurgoirmgrejgnrek
+>>>>>>> khuy1
 
 jfgnsjksdjknfajk

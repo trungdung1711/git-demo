@@ -1,0 +1,5 @@
+hello
+<<<<<<< HEAD
+=======
+hello
+>>>>>>> giangninh

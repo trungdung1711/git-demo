@@ -1,1 +1,1 @@
-print('Hello from Dung!')
+print('Hello world!')

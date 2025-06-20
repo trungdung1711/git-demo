@@ -2,7 +2,7 @@ import tkinter as tk
 
 # Initialize the main window
 root = tk.Tk()
-root.title("Button Counter")
+root.title("Click the button!")
 
 # Initialize counter variable
 count = 0

@@ -1,5 +1,3 @@
 hello
-<<<<<<< HEAD
 =======
 hello
->>>>>>> giangninh

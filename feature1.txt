@@ -1,5 +1,7 @@
 feature-master
 feature-12345
+<<<<<<< HEAD
+
 feature-12345
 feature-12345
 feature-12345
@@ -14,3 +16,4 @@ feature-12345
 feature-12345
 feature-12345
 feature-12345
+
